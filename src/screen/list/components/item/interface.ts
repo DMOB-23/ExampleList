@@ -1,4 +1,4 @@
-import { Contact } from "../../../data/model";
+import { Contact } from "../../../../data/model";
 
 export interface ContactItemProps {
     contact: Contact
